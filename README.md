@@ -1,4 +1,4 @@
-# JBOD (Just a Bunch of Disks
-Recreation of the mdadm function in Linux with cache implementation in C
+# JBOD (Just a Bunch of Disks)
+Recreation of a mdadm (Multiple Disk and Device Administration) Linear Device in Linux with cache implementation in C
 
-See JBOD
+See JBOD_manual.pdf for specifications
